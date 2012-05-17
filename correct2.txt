@@ -1,0 +1,9 @@
+0 thing1
+0 thing1
+1 thing2
+0 thing1
+1 thing2
+0 thing2
+0 thing2
+
+thing2
